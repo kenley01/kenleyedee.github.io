@@ -12,7 +12,7 @@ I'm a dedicated cybersecurity and network security student with hands-on experie
 - Performed network testing using Nmap and ping
 
 ## 📄 Resume Summary
-- **Education:** B.S. in Cybersecurity (In Progress)
+- **Education:** A.S. in Cybersecurity (In Progress)
 - **Skills:** Windows Server Admin, Network Security, LAN, VMware
 - **Certs:** Currently pursuing CompTIA Security+
 
